@@ -6,6 +6,8 @@ c# webform
 
 使用C#建置webform網頁 內容為活動申請表
 
+
+
 需連接資料庫才可使用網站
 
 需根據本身環境修改Web.config下 testhwDBConnectionString字串
@@ -15,3 +17,8 @@ c# webform
 DB 帳號test 密碼test123
 
 環境 MSSQL2012 , VS2013
+
+介面如下圖
+http://github.com/timlincool/web/raw/master/example/web.jpg
+http://github.com/timlincool/web/raw/master/example/calendar.jpg
+
