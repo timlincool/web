@@ -21,7 +21,7 @@ DB 帳號test 密碼test123
 介面如下圖
 
 <img src="http://github.com/timlincool/web/raw/master/example/web.png" align="left" hspace="10" vspace="6">
-<img src="http://github.com/timlincool/web/raw/master/example/web.jpg" align="left" hspace="10" vspace="6">
-<img src="http://github.com/timlincool/web/raw/master/example/calendar.jpg" align="left" hspace="10" vspace="6">
+<img src="http://github.com/timlincool/web/raw/master/example/web1.png" align="left" hspace="10" vspace="6">
+<img src="http://github.com/timlincool/web/raw/master/example/calendar.png" align="left" hspace="10" vspace="6">
 
 
