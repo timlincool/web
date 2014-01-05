@@ -358,7 +358,8 @@ public partial class main : System.Web.UI.Page
     {
 
 
-        string sqldelete = @"delete activity where id=( Select TOP 1 id From activity ORDER BY id DESC)";
+        //string sqldelete = @"delete activity where id=( Select TOP 1 id From activity ORDER BY id DESC)";
+        string sqldelete = "execute deleteone";
         SqlConnection cn = new SqlConnection(WebConfigurationManager.ConnectionStrings["testhwDBConnectionString"].ConnectionString);
         SqlCommand com = new SqlCommand(sqldelete, cn);
         try
